@@ -1,1 +1,1 @@
-# generalTemplate
+# MKDOC-Template
